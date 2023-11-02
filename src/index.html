@@ -1,16 +1,28 @@
 <!DOCTYPE html>
 <html lang="pl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Simple Editor</title>
     <link href="./index.css" rel="stylesheet">
 </head>
 
-<body>
-    <h1 class="text-3xl font-bold underline">
-        Hello world!
-    </h1>
+<body class="bg-slate-950 text-white flex min-h-screen justify-center items-center">
+    <main class=" w-full p-4 max-w-xl">
+        <h1 class="text-4xl font-bold mb-4">
+            My editor
+        </h1>
+        <textarea class="w-full h-64 mb-4 text-black p-3 rounded-xl">
+
+        </textarea>
+        <div class="flex justify-end gap-5">
+            <button class="bg-blue-800 px-3 py-1.5 rounded-sm">Load</button>
+            <button class="bg-green-800 px-3 py-1.5 rounded-sm">Save</button>
+        </div>
+    </main>
+
+    <script src="./main.js" type="module"></script>
 </body>
 
 </html>
