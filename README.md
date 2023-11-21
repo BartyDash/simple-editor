@@ -1,6 +1,6 @@
 # Simple Note Editor
 
-![](./screenshot-simple-editor.png)
+![](./src/images/screenshot-simple-editor.png)
 
 ## Project Description
 
@@ -22,7 +22,7 @@ Simple-editor is a [minimalist website](https://my-simple-editor.netlify.app/) t
 
 ### What I learned
 
-In this project I used tailwind for the first time and stored data in localstorage. A simple project but satisfying.
+In this project I used tailwind for the first time and stored data in localstorage. I also learned about meta properties. A simple project but satisfying.
 
 ## Run Locally
 
