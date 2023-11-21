@@ -1,13 +1,28 @@
 # Simple Note Editor
 
-<!-- ## Project Description -->
+![](./screenshot-simple-editor.png)
 
-Simple-editor is a minimalist website that allows users to save and upload notes. This project was created to make it easier to store simple notes online and to become familiar with localstorage.
+## Project Description
+
+Simple-editor is a [minimalist website](https://my-simple-editor.netlify.app/) that allows users to save and upload notes. This project was created to make it easier to store simple notes online and to become familiar with localstorage.
 
 ## Features
 
 - **Saving notes:** Users can enter text into the editor and save their notes.
 - **Loading notes:** Previously saved notes can be loaded by users.
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS - Tailwind
+- JavaScrit
+- [Parcel](https://parceljs.org/) - web bundler
+
+### What I learned
+
+In this project I used tailwind for the first time and stored data in localstorage. A simple project but satisfying.
 
 ## Run Locally
 
@@ -27,9 +42,3 @@ Simple-editor is a minimalist website that allows users to save and upload notes
     ```bash
     npm run start
     ```
-
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind
