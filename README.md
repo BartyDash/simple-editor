@@ -17,7 +17,7 @@ Simple-editor is a [minimalist website](https://my-simple-editor.netlify.app/) t
 
 - Semantic HTML5 markup
 - CSS - Tailwind
-- JavaScrit
+- JavaScript
 - [Parcel](https://parceljs.org/) - web bundler
 
 ### What I learned
